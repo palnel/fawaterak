@@ -43,6 +43,7 @@ class StoreUserRequest extends Request
 
         $rules['first_name'] = 'required|bail|string|max:100';
         $rules['last_name'] = 'required|bail|string|max:100';
+        $rules['password'] = 'nullable|string|min:6';
 
         if (config('ninja.db.multi_db_enabled')) {
             $rules['email'] = ['required', 'bail', 'email', new ValidUserForCompany(), new AttachableUser()];
@@ -94,6 +95,10 @@ class StoreUserRequest extends Request
 
         if (array_key_exists('last_name', $input)) {
             $input['last_name'] = strip_tags($input['last_name']);
+        }
+
+        if (isset($input['password']) && is_string($input['password'])) {
+            $input['password'] = trim($input['password']);
         }
 
         $input['id'] = null;
