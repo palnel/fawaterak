@@ -21,6 +21,12 @@
           description: 'The users phone number'
           type: string
           example: 555-1233-23232
+        password:
+          description: 'The password for the user. Minimum 6 characters. Optional when creating a user.'
+          type: string
+          format: password
+          minLength: 6
+          example: 'Password123'
         signature:
           description: 'The users sign off signature'
           type: string
