@@ -6,16 +6,16 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d16c78aad8574466bf83232b513ef4fb)](https://www.codacy.com/gh/turbo124/invoiceninja/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=turbo124/invoiceninja&amp;utm_campaign=Badge_Grade)
 <a href="https://cla-assistant.io/invoiceninja/invoiceninja"><img src="https://cla-assistant.io/readme/badge/invoiceninja/invoiceninja" alt="CLA assistant" /></a>
 
-# Invoice Ninja 5
+# Fawaterak 5
 
-Invoice Ninja Version 5 is here! We've taken the best parts of version 4 and added the most requested features to create an invoicing application like no other. Check the [Invoice Ninja YouTube Channel](https://www.youtube.com/@appinvoiceninja) to get up to speed, or try the [Demo](https://react.invoicing.co/demo) now.
+Fawaterak Version 5 is here! We've taken the best parts of version 4 and added the most requested features to create an invoicing application like no other. Check the [Invoice Ninja YouTube Channel](https://www.youtube.com/@appinvoiceninja) to get up to speed, or try the [Demo](https://react.invoicing.co/demo) now.
 
 **Choose your setup**
 
 - [Hosted](https://www.invoiceninja.com): Our hosted version is a Software as a Service (SaaS) solution. You're up and running in under 5 minutes, with no need to worry about hosting or server infrastructure.
 - [Self-Hosted](https://www.invoiceninja.org): For those who prefer to manage their own hosting and server infrastructure. This version gives you full control and flexibility.
 
-All Pro and Enterprise features from the hosted app are included in the source-available code. We offer a $30 per year white-label license to remove the Invoice Ninja branding from client-facing parts of the app.  
+All Pro and Enterprise features from the hosted app are included in the source-available code. We offer a $30 per year white-label license to remove the Fawaterak branding from client-facing parts of the app.  
 
 #### Get social with us
 
@@ -26,10 +26,10 @@ All Pro and Enterprise features from the hosted app are included in the source-a
 
 #### Documentation
 
-* [Invoice Ninja - API](https://api-docs.invoicing.co/)
-* [Invoice Ninja - Developer Guide](https://invoiceninja.github.io/en/developer-guide/)
-* [Invoice Ninja - User Guide](https://invoiceninja.github.io/en/user-guide/)
-* [Invoice Ninja - Self-Hosted Installation Guide](https://invoiceninja.github.io/en/self-host-installation/)
+* [Fawaterak - API](https://api-docs.invoicing.co/)
+* [Fawaterak - Developer Guide](https://invoiceninja.github.io/en/developer-guide/)
+* [Fawaterak - User Guide](https://invoiceninja.github.io/en/user-guide/)
+* [Fawaterak - Self-Hosted Installation Guide](https://invoiceninja.github.io/en/self-host-installation/)
 
 ## Installation Options and Clients
 
@@ -60,7 +60,7 @@ All Pro and Enterprise features from the hosted app are included in the source-a
 
 ## [Advanced] Quick Hosting Setup
 
-In addition to the official [Invoice Ninja - Self-Hosted Installation Guide](https://invoiceninja.github.io/en/self-host-installation/) we have a few commands for you.
+In addition to the official [Fawaterak - Self-Hosted Installation Guide](https://invoiceninja.github.io/en/self-host-installation/) we have a few commands for you.
 
 ```sh
 git clone --depth 1 -b v5.11.53 https://github.com/invoiceninja/invoiceninja.git
@@ -98,7 +98,7 @@ pass: password
 ```
 ## Developers Guide
 
-In addition to the official [Invoice Ninja - Developer Guide](https://invoiceninja.github.io/en/developer-guide/) we've got your back with some insights.
+In addition to the official [Fawaterak - Developer Guide](https://invoiceninja.github.io/en/developer-guide/) we've got your back with some insights.
 
 ### App Design
 
@@ -178,5 +178,5 @@ Please follow responsible disclosure procedures if you detect an issue.
 For further information on responsible disclosure please read [here](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html).
 
 ## License
-Invoice Ninja is released under the Elastic License.  
+Fawaterak is released under the Elastic License.  
 See [LICENSE](LICENSE) for details.

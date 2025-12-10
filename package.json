@@ -1,5 +1,5 @@
 {
-    "name": "@invoiceninja/invoiceninja",
+    "name": "@fawaterak/fawaterak",
     "private": true,
     "scripts": {
         "dev": "vite --host 0.0.0.0",
